@@ -1,4 +1,4 @@
-# The Resource Trinity# The Resource Trinity
+# The Resource Trinity
 
 [cite_start]Success depends on balancing three interconnected resources[cite: 269].
 
